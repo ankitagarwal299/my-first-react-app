@@ -1,2 +1,2 @@
 # my-first-react-app
-My fisrt React App w/ Mosh
+My first React App w/ Mosh
